@@ -1,0 +1,20 @@
+body {
+  font-family: sans-serif;
+}
+
+.container {
+  width: 800px;
+  max-width: 90vw;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin: 0 auto;
+  align-items: center;
+}
+
+.result-header {
+  font-size: 2rem;
+  text-align: center;
+  font-weight: bold;
+  color: black;
+}
